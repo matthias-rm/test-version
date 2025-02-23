@@ -1,4 +1,6 @@
 *
-!*/*
+!**/*
 !*.py
 !pyproject.toml
+.idea
+*.venv
