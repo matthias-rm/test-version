@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "test-version"
+version = "1.1.0"
+description = ""
+authors = ["Matthias Mitterreiter <matthias.mitterreiter@remerge.io>"]
+readme = "README.md"
+packages = [{include = "test_version"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
