@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "test-version"
-version = "1.1.0"
+version = "1.1.1"
 description = ""
 authors = ["Matthias Mitterreiter <matthias.mitterreiter@remerge.io>"]
 readme = "README.md"
